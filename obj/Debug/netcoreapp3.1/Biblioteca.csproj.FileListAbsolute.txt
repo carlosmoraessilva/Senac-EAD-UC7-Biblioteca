@@ -53,5 +53,6 @@ C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\View
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
-C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
