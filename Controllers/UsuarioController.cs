@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 using Biblioteca.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,13 +8,20 @@ namespace Biblioteca.Controllers
     {
          public IActionResult Cadastro()
         {
-         
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
             return View();
         }
 
         [HttpPost]
         public IActionResult Cadastro(Usuario u)
         {
+
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
+
+            u.senha = Criptografia.GerarMD5(u.senha);
+
             UsuarioService usuarioService = new UsuarioService();
 
             if(u.Id == 0)

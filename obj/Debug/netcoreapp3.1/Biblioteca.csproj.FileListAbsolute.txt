@@ -16,8 +16,6 @@ C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConne
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
-C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
@@ -26,7 +24,6 @@ C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
-C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
@@ -56,3 +53,5 @@ C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\View
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
 C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
+C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Carlos\Desktop\Senac_2023\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
